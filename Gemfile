@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
 gem 'font-awesome-rails'
-
+gem 'simple_form'
 
 group :development, :test do
   gem 'byebug'
